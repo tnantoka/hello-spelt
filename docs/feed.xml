@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Blog Title</title>
-    <description>My site description
+    <title>Hello Spelt</title>
+    <description>Spelt Example
 </description>
-    <link></link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 11 Mar 2017 23:21:47 +0900</pubDate>
-    <lastBuildDate>Sat, 11 Mar 2017 23:21:47 +0900</lastBuildDate>
+    <link>http://hello-spelt.bornneet.com</link>
+    <atom:link href="http://hello-spelt.bornneet.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 12 Mar 2017 21:35:10 +0900</pubDate>
+    <lastBuildDate>Sun, 12 Mar 2017 21:35:10 +0900</lastBuildDate>
     <generator>Spelt</generator>
     
       <item>
@@ -16,8 +16,8 @@
 
 When you&apos;re ready to add more posts, simply create a new markdown file in your `_posts` directory and include the neccessary front matter. Take a look at the source for this post to see how it works.</description>
         <pubDate>Sat, 11 Mar 2017 22:59:46 +0900</pubDate>
-        <link>/2017/03/11/welcome.html</link>
-        <guid isPermaLink="true">/2017/03/11/welcome.html</guid>
+        <link>http://hello-spelt.bornneet.com/2017/03/11/welcome.html</link>
+        <guid isPermaLink="true">http://hello-spelt.bornneet.com/2017/03/11/welcome.html</guid>
         
         
       </item>
