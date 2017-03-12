@@ -1,8 +1,8 @@
 # Site settings
-title: "My Blog Title"
+title: "Hello Spelt"
 description: >
-  My site description
+  Spelt Example
 
-url: ""
+url: "http://hello-spelt.bornneet.com"
 date_format: "MMM dd, yyyy"
 paginate: 5
